@@ -1,3 +1,3 @@
-This is a weapon game(paper rock scissors)
+This is a weapon game(rock paper scissors)
 
 thank you:) 
